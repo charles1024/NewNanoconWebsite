@@ -1,0 +1,3 @@
+Server: dsu-sql02.dsu.edu
+User: gameclub
+Pass: nano!234
